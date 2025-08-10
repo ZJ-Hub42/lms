@@ -100,7 +100,7 @@
 												<a href="profile.php">profile</a>
 											</li>
 											<li>
-												<a href="dashboard.php">logout</a>
+												<a href="logout.php">logout</a>
 											</li>
 										</ul>
 									</li>														
@@ -108,4 +108,5 @@
 							</li>
 						</ul>
 					</div>															
+
 				</div>
